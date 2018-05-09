@@ -1,49 +1,6 @@
 # cqrs-es-framework-laravel
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
-[![Quality Score][ico-code-quality]][link-code-quality]
-[![Total Downloads][ico-downloads]][link-downloads]
-
-This is the Laravel Adapter for SmoothPHP CQRS Event Sourcing package, It contains everything you need to get started event souring in Laravel. 
-## Install
-
-Via Composer
-
-``` bash
-$ composer require smoothphp/cqrs-es-framework-laravel
-```
-
-``` php
-SmoothPhp\LaravelAdapter\ServiceProvider::class,
-
-```
-
-## Usage Coming soon
-
-
-
-
-
-## Change log
-
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
-
-## Testing
-
-``` bash
-$ composer test
-```
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details.
-
-## Security
-
-If you discover any security related issues, please email simon@bennett.im instead of using the issue tracker.
+This fork uses `v1.0.4` tag and is updated to Laravel 5.6 and has some bugs fixed.
 
 ## Credits
 
