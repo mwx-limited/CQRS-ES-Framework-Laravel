@@ -1,7 +1,7 @@
 <?php
 namespace SmoothPhp\LaravelAdapter\EventBus;
 
-use Illuminate\Contracts\Logging\Log;
+use Psr\Log\LoggerInterface as Log;
 use SmoothPhp\Contracts\Domain\DomainMessage;
 use SmoothPhp\Contracts\EventBus\EventListener;
 
