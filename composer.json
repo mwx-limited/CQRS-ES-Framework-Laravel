@@ -1,12 +1,12 @@
 {
-  "name": "smoothphp/cqrs-es-framework-laravel",
+  "name": "mwx-limited/cqrs-es-framework-laravel",
   "description": "Laravel adapter for the SmoothPhp CQRS-ES-Framework",
   "keywords": [
     "cqrs",
     "laravel",
     "event sourcing"
   ],
-  "homepage": "https://github.com/SmoothPhp/CQRS-ES-Framework-Laravel",
+  "homepage": "https://github.com/mwx-limited/cqrs-es-framework-laravel",
   "license": "MIT",
   "authors": [
     {
