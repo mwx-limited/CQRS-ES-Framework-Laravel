@@ -13,6 +13,13 @@
     "phpunit/phpunit": "4.*",
     "scrutinizer/ocular": "~1.1"
   },
+    "repositories": [
+        {
+            "type": "vcs",
+            "name": "mwx-limited/cqrs-es-framework",
+            "url": "https://github.com/mwx-limited/CQRS-ES-Framework"
+        }
+    ],
   "autoload": {
     "psr-4": {
       "SmoothPhp\\LaravelAdapter\\": "src"
@@ -28,12 +35,5 @@
   },
   "scripts": {
     "test": "phpunit"
-  },
-  "repositories": [
-    {
-      "type": "git",
-      "name": "mwx-limited/cqrs-es-framework",
-      "url": "https://github.com/mwx-limited/CQRS-ES-Framework.git"
-    }
-  ]
+  }
 }
